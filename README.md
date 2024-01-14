@@ -27,6 +27,10 @@ Users can easily update existing employee records, modifying information such as
 Download the 
 
 
+# Sample Images
+![login](https://github.com/JrdProg/Employee-Management-System-CRUD-Application-/assets/136809827/e743a132-7709-4f4f-8441-d11a99e7b8e7)
+
+
 Follow me on:
 + Facebook: <a href="https://facebook.com/chenzokiwasashi">John Rey Dagasdas</a>
 + Instagram: <a href="https://instagram.com/jrndagasdaz">@jrndagasdaz</a>
