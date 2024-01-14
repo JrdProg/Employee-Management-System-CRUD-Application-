@@ -35,12 +35,17 @@ Download the
 ![dashboard](https://github.com/JrdProg/Employee-Management-System-CRUD-Application-/assets/136809827/e67b0a9a-d4f2-4714-ac5c-f86394624a26)
 
 + Add Section <br />
+![add](https://github.com/JrdProg/BouncingBall/assets/136809827/23b659c5-2824-4fd0-971b-2c85ee7629b8)
 
 + Update Section <br />
+![update](https://github.com/JrdProg/BouncingBall/assets/136809827/60fafac7-42a9-4ca3-9389-e0b207e9ca7d)
 
 + Delete Section <br />
+![delete](https://github.com/JrdProg/BouncingBall/assets/136809827/cfa1f485-f3ff-4d56-9303-67508e16db00)
 
 + View Section <br />
+![list](https://github.com/JrdProg/BouncingBall/assets/136809827/32564b9e-2ccb-4db7-9d01-d350c7f16095)
+
 
 Follow me on:
 + Facebook: <a href="https://facebook.com/chenzokiwasashi">John Rey Dagasdas</a>
