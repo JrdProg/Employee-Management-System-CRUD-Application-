@@ -1,4 +1,4 @@
-# Employee-Management-System-CRUD-Application-
+# Employee Management System CRUD Application
 This Employee Management System (EMS) developed in Java using Swing. This feature-rich system provides essential functionalities for creating, reading, updating, and deleting employee records.
 
 # Key Features:
