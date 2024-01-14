@@ -26,6 +26,8 @@ Users can easily update existing employee records, modifying information such as
 # Direct Execute
 Download the [Employee Manage System](https://github.com/JrdProg/Employee-Management-System-CRUD-Application-/files/13932483/EMS.CRUD.zip) for the direct execute of the project.
 
+# + NOTE: don't forget to import ems_db.sql file from db folder to phpmyadmin or mysql database.
+
 
 # Sample Images
 + LogIn Page <br />
