@@ -24,7 +24,7 @@ Users can easily update existing employee records, modifying information such as
      User authentication and access control mechanisms to ensure that only authorized personnel can perform CRUD operations. Password protection and role-based access contribute to a secure data management environment.
 
 # Direct Execute
-Download the [click me to download](https://github.com/Schecher1/Minecraft-Server-Creator/blob/master/README.md)
+Download the [Employee Manage System](https://github.com/Schecher1/Minecraft-Server-Creator/blob/master/README.md) for the direct execute of the project application .
 
 
 # Sample Images
