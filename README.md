@@ -25,3 +25,8 @@ Users can easily update existing employee records, modifying information such as
 
 # Direct Execute
 Download the 
+
+
+Follow me on:
++ Facebook: <a href="https://facebook.com/chenzokiwasashi">John Rey Dagasdas</a>
++ Instagram: <a href="https://instagram.com/jrndagasdaz">@jrndagasdaz</a>
