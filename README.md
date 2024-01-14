@@ -31,6 +31,16 @@ Download the
 + LogIn Page <br />
 ![login](https://github.com/JrdProg/Employee-Management-System-CRUD-Application-/assets/136809827/e743a132-7709-4f4f-8441-d11a99e7b8e7)
 
++ Dashboard Panel <br />
+![dashboard](https://github.com/JrdProg/Employee-Management-System-CRUD-Application-/assets/136809827/e67b0a9a-d4f2-4714-ac5c-f86394624a26)
+
++ Add Section <br />
+
++ Update Section <br />
+
++ Delete Section <br />
+
++ View Section <br />
 
 Follow me on:
 + Facebook: <a href="https://facebook.com/chenzokiwasashi">John Rey Dagasdas</a>
