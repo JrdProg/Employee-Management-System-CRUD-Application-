@@ -28,7 +28,7 @@ Download the
 
 
 # Sample Images
-LogIn Page /n
+LogIn Page <br />
 ![login](https://github.com/JrdProg/Employee-Management-System-CRUD-Application-/assets/136809827/e743a132-7709-4f4f-8441-d11a99e7b8e7)
 
 
